@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://honorphoenix.github.io//sitemap.xml
